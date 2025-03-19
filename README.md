@@ -1,4 +1,4 @@
-# -Loan-Approval-Prediction-using-Machine-Learning
+# -Loan-Approval-Prediction-using-Machine-Learning 
 
 # Overview
 This project aims to predict whether a loan application will be approved using machine learning. The model is trained on applicant data, including income, credit history, and loan amount, and can be deployed for automated loan approval decisions.
